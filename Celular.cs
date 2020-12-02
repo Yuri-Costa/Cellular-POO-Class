@@ -17,11 +17,11 @@ namespace Phone
            this.on = false;
     }
 
-     public string fazerLigacao(){
-            return "ligando";
+     public void fazerLigacao(){
+            Console.WriteLine("Ligando...");
     }
-     public string enviarMensagem(){
-            return "enviado";
+     public void enviarMensagem(){
+            Console.WriteLine("Enviando...");
     }
 
 
