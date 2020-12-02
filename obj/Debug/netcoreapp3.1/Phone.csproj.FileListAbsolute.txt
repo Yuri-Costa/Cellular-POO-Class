@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Phone\bin\Debug\netcoreapp3.1\Phone.exe
+C:\Users\dev\Desktop\Phone\bin\Debug\netcoreapp3.1\Phone.deps.json
+C:\Users\dev\Desktop\Phone\bin\Debug\netcoreapp3.1\Phone.runtimeconfig.json
+C:\Users\dev\Desktop\Phone\bin\Debug\netcoreapp3.1\Phone.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Phone\bin\Debug\netcoreapp3.1\Phone.dll
+C:\Users\dev\Desktop\Phone\bin\Debug\netcoreapp3.1\Phone.pdb
+C:\Users\dev\Desktop\Phone\obj\Debug\netcoreapp3.1\Phone.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Phone\obj\Debug\netcoreapp3.1\Phone.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Phone\obj\Debug\netcoreapp3.1\Phone.AssemblyInfo.cs
+C:\Users\dev\Desktop\Phone\obj\Debug\netcoreapp3.1\Phone.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Phone\obj\Debug\netcoreapp3.1\Phone.dll
+C:\Users\dev\Desktop\Phone\obj\Debug\netcoreapp3.1\Phone.pdb
+C:\Users\dev\Desktop\Phone\obj\Debug\netcoreapp3.1\Phone.genruntimeconfig.cache
