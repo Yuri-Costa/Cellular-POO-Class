@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\Phone\\Phone.csproj": {}
+    "C:\\Users\\dev\\Desktop\\Yuri\\Phone\\Phone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\Phone\\Phone.csproj": {
+    "C:\\Users\\dev\\Desktop\\Yuri\\Phone\\Phone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Phone\\Phone.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Yuri\\Phone\\Phone.csproj",
         "projectName": "Phone",
-        "projectPath": "C:\\Users\\dev\\Desktop\\Phone\\Phone.csproj",
+        "projectPath": "C:\\Users\\dev\\Desktop\\Yuri\\Phone\\Phone.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\Phone\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\Yuri\\Phone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -7,21 +7,21 @@ namespace Phone
         public string color = "azul";
         public string model = "iphone 13";
         public string size = "15cm";
-        public bool on;
+        public bool on = false;
 
-        public void ligar(){
+        public void Ligar(){
             this.on = true;
         }
 
-         public void desligar(){
+         public void Desligar(){
            this.on = false;
     }
 
-     public void fazerLigacao(){
+     public void FazerLigacao(){
             Console.WriteLine("Ligando...");
     }
-     public void enviarMensagem(){
-            Console.WriteLine("Enviando...");
+     public void EnviarMensagem(){
+            Console.WriteLine("Enviando mensagem...");
     }
 
 
